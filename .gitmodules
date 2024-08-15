@@ -1,0 +1,8 @@
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = https://github.com/uran0sH/TinyInfiniTensor.git
+	branch = dev
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/uran0sH/learning-cxx.git
+	branch = dev
